@@ -8,8 +8,6 @@
   return str == str.toUpperCase();
 }
 void main(List<String> args) {
-  
-
   String str1 = "hi";
   String str2 = "HI";
   print(isUpperCase(str1));
